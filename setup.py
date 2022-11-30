@@ -12,6 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/seoggeonjin/xxyz",
+    download_url="https://github.com/seoggeonjin/xyzs/archive/master.zip",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
